@@ -15,8 +15,6 @@
   <a href="https://github.com/Maria20Maria20"><img src="https://img.shields.io/badge/GitHub-@Maria20Maria20-%23181717?style=flat&logo=github"></a>
 </p>
 
-𝑰 ❤️ 𝑮𝒂𝒎𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
-
 👩‍💻 I'm a C++ / C# developer specializing in game engines and optimization.
 I build performant systems for Unity and native DirectX engines, focusing on efficiency and editor tooling.
 
