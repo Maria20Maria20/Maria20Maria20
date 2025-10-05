@@ -6,6 +6,7 @@
   🎮 Game Optimization • Tooling • Rendering • Multi-GPU Systems
 </p>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/maria-ivashchenkina"><img src="https://img.shields.io/badge/LinkedIn-Maria%20Ivashchenkina-blue?style=flat&logo=linkedin"></a>
   <a href="https://www.youtube.com/@-renpyrabicokocho5346"><img src="https://img.shields.io/badge/YouTube-Maria%20BH-red?style=flat&logo=youtube"></a>
@@ -29,11 +30,9 @@ I build performant systems for Unity and native DirectX engines, focusing on eff
 [![FindBrains](https://svg.bookmark.style/api?url=https://store.steampowered.com/app/2940500/Find_Brains/&mode=light&style=horizontal)](https://store.steampowered.com/app/2940500/Find_Brains/)
 [![SunshineEngine](https://svg.bookmark.style/api?url=https://github.com/ravilkooo/SunshineEngine&style=horizontal&mode=dark)](https://github.com/ravilkooo/SunshineEngine)
 
+
+
 ---
-
-<div class="row">
-
-  <div class="column">
 
 ## 🧠 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
@@ -58,9 +57,7 @@ I build performant systems for Unity and native DirectX engines, focusing on eff
 ![Weblate](https://img.shields.io/badge/-Weblate-%2300B7B3?style=flat-square&logo=weblate&logoColor=ffffff)
 ![Perforce](https://img.shields.io/badge/-Perforce-%230063B3?style=flat-square&logo=perforce&logoColor=ffffff)
 
-  </div>
-
-  <div class="column">
+---
 
 ## 🏆 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀
 
@@ -76,26 +73,14 @@ I build performant systems for Unity and native DirectX engines, focusing on eff
 🛠 Focused on **Games and Engine Architecture, Performance Optimization** and editor tools  
 🧩⚡ **Hybrid Rendering & Multi-GPU optimization** (DirectX12)
 
-  </div>
+---
 
-</div>
+## 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲
 
-<style>
-    {
-        box-sizing: border-box;
-    }
-    /* Set additional styling options for the columns*/
-    .column {
-    float: left;
-    width: 50%;
-    }
-
-    .row:after {
-    content: "";
-    display: table;
-    clear: both;
-    }
-</style>
+[![](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/maria-ivashchenkina)
+[![](https://img.shields.io/badge/-YouTube-%23FF0000?style=flat-square&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@-renpyrabicokocho5346)
+[![](https://img.shields.io/badge/-Itch.io-%23FA5C5C?style=flat-square&logo=itchdotio&logoColor=ffffff)](https://maria-bh.itch.io/)
+[![](https://img.shields.io/badge/-Email-%230078D4?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:mari.avi00@mail.ru)
 
 ---
 
@@ -105,4 +90,3 @@ I build performant systems for Unity and native DirectX engines, focusing on eff
 </p>
 
 <p align="center">✨ “Building performant games that inspire creativity.” ✨</p>
-
