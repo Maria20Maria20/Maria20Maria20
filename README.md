@@ -22,13 +22,15 @@ I build performant systems for Unity and native DirectX engines, focusing on eff
 
 ---
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## Worked 𝗼𝗻
 
 [![NinsarGames](https://svg.bookmark.style/api?url=https://ninsar.games/&mode=dark&style=horizontal)](https://ninsar.games/)
 [![FindBrains](https://svg.bookmark.style/api?url=https://store.steampowered.com/app/2940500/Find_Brains/&mode=light&style=horizontal)](https://store.steampowered.com/app/2940500/Find_Brains/)
 [![SunshineEngine](https://svg.bookmark.style/api?url=https://github.com/ravilkooo/SunshineEngine&style=horizontal&mode=dark)](https://github.com/ravilkooo/SunshineEngine)
 
+## Currently working on
 
+[![FindBrains](https://svg.bookmark.style/api?url=https://itch.io/e/47120925/maria-bh-updated-parachute-jellyfish/&mode=light&style=horizontal)](https://itch.io/e/47120925/maria-bh-updated-parachute-jellyfish)/)
 
 ---
 
